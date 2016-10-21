@@ -1,0 +1,5 @@
+module Ruby{
+header "ruby.h"
+link "ruby"
+
+}
