@@ -1,4 +1,4 @@
-module Ruby{
+module Ruby [system]{
 header "ruby.h"
 link "ruby"
 
