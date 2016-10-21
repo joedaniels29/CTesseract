@@ -10,7 +10,7 @@ import PackageDescription
 
 let package = Package(
     name: "Ruby",
-    pkgConfig:"ruby-2.4"
+    pkgConfig:"ruby-2.4",
     providers: [
 		.Apt("openssl libssl-dev")
 	]
