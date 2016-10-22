@@ -1,4 +1,4 @@
 module Ruby [system]{
-    header "ruby/ruby.h"
+    header "/usr/include/ruby.h"
     link "ruby"
 }
